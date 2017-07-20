@@ -1,11 +1,4 @@
-*{
-	font-family: sans-serif;
-}
-
-.to-white{
-	color: #fff;
-}
-
+/*Applies to the very beginning of the page with the page*/
 .jumbotron-header{
 	background-color: #002A32;
 	width: 100%;
@@ -13,41 +6,37 @@
 	padding: 50px 50px 50px 50px;
 }
 
-.name-in-header{
-	color: #fff;
+/*Applies padding in the header*/
+.spacing-in-header{
+	padding-top: 100px
 }
 
-.header-head-bust{
+/*Applies to the pictures in the header*/
+.pic-in-header{
 	width: 40%;
 	height: 40%;
 	float: left;
 }
-.intro-to-me{
-	color: #B2DBBF;
-}
 
+/*Applies to the space in which the story is placed*/
 .jumbotron-about {
 	background-color:#fff;
 	margin: 0px 0px 0px 0px;
 }
 
-/*
-.spacing-in-header{
-	padding-top: 100px
+/*Applies to the article*/
+.article{
+	color: black;
 }
-*/
 
-.project{
-	padding-bottom: 50px;
-	padding-top: 50px;
-	border: 1px solid #fff;
-}
-button{ 
+/*Applies to the button that links to andys page */
+.link-to-andy{ 
 	color: #fff;
 }
 
-a{
-	text-decoration: none;
+/*Applies to the button that links to andys page and adds a hover effect */
+.link-to-andy:hover{
+	background-color: #454545;
 }
 
 
