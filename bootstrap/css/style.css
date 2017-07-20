@@ -1,0 +1,59 @@
+*{
+	font-family: sans-serif;
+}
+
+.to-white{
+	color: #fff;
+}
+
+.jumbotron-header{
+	background-color: #002A32;
+	width: 100%;
+	height: 50%;
+	padding: 50px 50px 50px 50px;
+}
+
+.name-in-header{
+	color: #fff;
+}
+
+.header-head-bust{
+	width: 40%;
+	height: 40%;
+	float: left;
+}
+.intro-to-me{
+	color: #B2DBBF;
+}
+
+.jumbotron-about {
+	background-color:#fff;
+	margin: 0px 0px 0px 0px;
+}
+
+/*
+.spacing-in-header{
+	padding-top: 100px
+}
+*/
+
+.project{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	border: 1px solid #fff;
+}
+button{ 
+	color: #fff;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
